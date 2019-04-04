@@ -1,0 +1,46 @@
+body 
+{
+    background-image: url("./pictures/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+}
+
+h1
+{
+    color: white;
+}
+
+nav
+{
+    position: relative;
+    color: black;
+    background-color: black;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    position: center; 
+    text-align: center;  
+}
+
+input
+{
+    margin-top: 15px;
+}
+
+img
+{
+    display: inline;
+    position: absolute;
+}
+
+#footer
+{
+    margin-left: 70%;
+    position: absolute;
+    float: right;
+    color: white;
+    margin-right: 10px;
+    bottom: 2%;
+    padding-bottom: 0%;
+}

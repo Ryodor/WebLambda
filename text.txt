@@ -1,0 +1,49 @@
+Maquette -HTML
+
+background:
+	-Image fixe et centrer qui ne bougera jamais sur fond noir a fin que l'image se fonde dedans.
+	
+-Banniere :
+	  -Banniere simple image modifier via un programme contenant deja les deux images de deadpool,
+	  Elle sera poser sur le site et ne bougera jamais.
+	  -A l'interieur 5 balise de type ancres seront place et permetront d'atteindre une autre
+	  partie de la page a la vertical.
+
+-Cote:
+	-De maniere symetrique son poste des liens vers des photos se trouvant dans nos dossiers.
+
+
+Maquette -CSS
+
+background :
+	-couleur noir
+	-pas de redimension de l'image.
+
+banniere : height : 100px
+	   weight : 1900px
+	   color : no color
+	   text : police cinzel - taille  18
+
+
+Page principal:
+	height :700px
+	weight :1900px
+	background - color : black
+	background image : name photo
+
+cote gauche:
+	liste button image.
+	marge left : 25
+	height : 100px
+	weight : 85
+
+cote droit:
+	liste button image.
+	marge right : 60
+	height : 100px
+	weight : 85
+	
+
+
+Banniere avec Une photo suivi d'un menu comportant 5 ancre(lien) puis d'une photo
+Sur la page on a un titre suivi d'un slogan

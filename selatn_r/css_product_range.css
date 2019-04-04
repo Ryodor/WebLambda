@@ -1,0 +1,44 @@
+body
+{
+    background-color: black;
+    color: white;
+    font-family: georgia;
+}
+
+h2
+{
+    font-size: 45px;
+}
+
+h3
+{
+    font-size: 30px;
+}
+
+.avengers
+{
+    margin-left:100px;
+}
+
+.center_mid
+{
+    text-align: center;
+}
+
+#profil_hero
+{
+    width: 130px;
+    height: 100px;
+}
+
+#tabl4
+{
+    margin-left:200px;
+}
+
+#profil_batman
+{
+    width: 180px;
+    height: 100px;
+}
+ 
